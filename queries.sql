@@ -47,3 +47,8 @@ ALTER TABLE Animals ADD COLUMN city
 
 UPDATE Animals SET origin = "Albania" WHERE id IN (1,2);
 UPDATE Animals SET city = "Lushnje " WHERE id IN (1,2);
+
+--  Select
+
+
+SELECT * FROM  Animals
