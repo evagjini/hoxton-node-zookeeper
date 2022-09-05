@@ -52,3 +52,4 @@ UPDATE Animals SET city = "Lushnje " WHERE id IN (1,2);
 
 
 SELECT * FROM  Animals
+SELECT name FROM Animals
